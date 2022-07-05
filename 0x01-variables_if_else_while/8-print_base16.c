@@ -19,7 +19,7 @@ for (ch = 'a'; ch <= 'f'; ch++)
 putchar(ch);
 }
 
-putchar(10) /* ascii for new line */
+putchar(10); /* ascii for new line */
 
 return (0);
 }
